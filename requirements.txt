@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+Jinja2
+python-multipart
+Pillow
+qrcode
+lgpio
+gpiozero
