@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+.env.*
+
+# PhotoDrop cache and generated data
+app/cache/
+*.zip
+
+# Local media / SD card contents
+media/
+photos/
+*.JPG
+*.jpg
+*.JPEG
+*.jpeg
+*.PNG
+*.png
+*.MOV
+*.mov
+*.MP4
+*.mp4
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
